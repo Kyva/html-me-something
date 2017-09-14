@@ -1,0 +1,30 @@
+
+img {
+    margin-left:150px;
+    padding-top: 100px;
+    height: 400px;
+    width: 50%;
+    margin: right;
+    
+
+}
+header {
+    margin-left:150px;
+
+}
+footer {
+    background-color: #F2F7F1;
+    text-decoration-line: none;
+}
+#all {
+background-color: #E5F5D6
+}
+
+body {
+
+    margin: auto;
+    top: 50%;
+    width: 75%;
+    font: "Sacramento";
+}
+
